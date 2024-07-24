@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "gson-2.11.0.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.explorer.showNonJavaResources": true,
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "workbench.settings.openDefaultKeybindings": false,
+    "editor.fontSize": 12,
+    "editor.wordWrapColumn": 200,
+    "editor.wordWrap": "off",
+    "[java]": {
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false
+    }
+}
